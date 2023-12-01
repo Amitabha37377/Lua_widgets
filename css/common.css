@@ -1,0 +1,136 @@
+/* color class - forground */
+/***************************/
+.fg-white{
+	color:#ffe9c7
+}
+
+.fg-mid{
+	color:#dcc9bc
+}
+
+.fg-middark{
+	color:#725a5a
+}
+
+.fg-yellow{
+	color: #e39c45;
+}
+
+.fg-red{
+	color:#cf223e
+}
+
+.fg-dark{
+color: #1d1515;
+}
+
+.fg-blue{
+	color: #756d94;
+}
+
+.fg-green{
+	color: #768f80;
+}
+.fg-orange{
+	color: #f07342;
+}
+
+
+/* color class - forground */
+/***************************/
+.bg-white{
+background-color :#ffe9c7
+}
+
+.bg-mid{
+	background-color:#dcc9bc
+}
+
+.bg-yellow{
+	background-color: #e39c45;
+}
+
+.bg-red{
+	background-color:#cf223e
+}
+
+.bg-dark{
+ background-color: #1d1515;
+}
+
+.bg-blue{
+	background-color: #756d94;
+}
+ .bg-normal{
+	background-color: #241d1d;
+}
+.bg-lightbrown{
+	background-color: #725a5a;
+}
+
+/* Margins */
+/***************************/
+.top{
+	margin-top: 8px;
+	margin-bottom: 2px;
+}
+
+.bottom{
+	margin-bottom: 8px;
+	margin-top: 2px;
+}
+
+.btn-middle{
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+.btn-top{
+	margin-top: 4px;
+	margin-bottom: 0px;
+}
+.btn-bottom{
+	margin-top: 4px;
+	margin-bottom: 0px;
+}
+
+/* Buttons */
+/***************************/
+.button{
+	margin-left:5px;
+	margin-right: 5px;
+	padding: 5px;
+		/* border-radius: 5px; */
+}
+
+/* Labels */
+/***************************/
+.label{
+	font-family: "Ubuntu nerd font";
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.label2{
+font-family: "CodeNewRoman Nerd Font";
+	font-size: 24px;
+	font-weight: bold;
+
+}
+
+/*Rounded corners*/
+/****************************/
+.round-top{
+	border-radius: 5px 5px 0 0;
+}
+
+.round-bottom{
+	border-radius: 0 0 5px 5px;
+}
+
+.round{
+	border-radius: 5px;
+}
+
+.circle{
+	border-radius: 30px;
+}

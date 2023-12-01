@@ -1,0 +1,11 @@
+*{
+	all:unset
+}
+
+.bar{
+	background: #121010;
+		border-radius: 5px;
+}
+
+@import "css/common.css";
+@import "css/taglist.css";
